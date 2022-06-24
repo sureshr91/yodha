@@ -14,11 +14,16 @@ public class Employee {
 		System.out.println("25");
 
 	}
-	private void phono() {
+    private void phono() {
 		System.out.println("2542253129");
 
 	}
+    private void salary() {
+		System.out.println("53423");
+
+	}
 	
+
 	
 	
 
