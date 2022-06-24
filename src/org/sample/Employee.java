@@ -14,6 +14,10 @@ public class Employee {
 		System.out.println("25");
 
 	}
+	private void accNo() {
+		System.out.println("34344234234236");
+
+	}
 	
 	
 
