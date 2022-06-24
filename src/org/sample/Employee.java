@@ -14,6 +14,10 @@ public class Employee {
 		System.out.println("25");
 
 	}
+	private void salary() {
+		System.out.println("53423");
+
+	}
 	
 	
 
