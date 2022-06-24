@@ -22,7 +22,12 @@ public class Employee {
 		System.out.println("53423");
 
 	}
+    private void accNo() {
+		System.out.println("34344234234236");
+
+	}
 	
+
 
 	
 	
